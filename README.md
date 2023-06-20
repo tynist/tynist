@@ -1,11 +1,8 @@
 # Hello All👋 #
 
 <div class="container">
-    <div>
-        Hello All👋
-    </div>
     <div class="visit-count">
-        :star: Visit Count :star:
+        <h3>:star: Visit Count :star:</h3>
         <img src="https://profile-counter.glitch.me/tynist/count.svg" alt="tynist :: tynist's Count" />
     </div>
 </div>
