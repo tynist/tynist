@@ -2,9 +2,9 @@
 # Hello All👋 #
 
 
-<h3 align="center" style="color: #fff">:star: Visit Count :star:</h3>
+<h3 align="left" style="color: #fff">:star: Visit Count :star:</h3>
 <br>
-<p align="center">
+<p align="left">
 <a href="https://gist.github.com/tynist"><img src="https://profile-counter.glitch.me/tynist/count.svg" alt="tynist :: tynist's Count" /></a>
 </p>
 
