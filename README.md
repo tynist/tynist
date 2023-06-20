@@ -1,9 +1,6 @@
 <!--suppress HtmlDeprecatedAttribute -->
-# Hello All👋 
-<h3 align="right" style="color: #fff">:star: Visit Count :star:</h3> 
-<p align="right">
-  <a href="https://gist.github.com/tynist"><img src="https://profile-counter.glitch.me/tynist/count.svg" alt="tynist :: tynist's Count" /></a>
-</p>
+<!-- Hello All👋 <h3 align="right" style="color: #fff">:star: Visit Count :star:</h3> <p align="right"> <a href="https://gist.github.com/tynist"><img src="https://profile-counter.glitch.me/tynist/count.svg" alt="tynist :: tynist's Count" /></a> </p> -->
+
 
 
 
