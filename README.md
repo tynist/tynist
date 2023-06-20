@@ -2,7 +2,7 @@
 
 <div class="container">
     <div class="visit-count">
-        <h3>:star: Visit Count :star:</h3>
+        :star: Visit Count :star:
         <img src="https://profile-counter.glitch.me/tynist/count.svg" alt="tynist :: tynist's Count" />
     </div>
 </div>
