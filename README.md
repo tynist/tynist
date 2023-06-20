@@ -1,30 +1,11 @@
 # Hello All👋 #
-<h3 align="right" style="color: #fff">:star: Visit Count :star:</h3> 
-<p align="right">
-  <a href="https://gist.github.com/tynist"><img src="https://profile-counter.glitch.me/tynist/count.svg" alt="tynist :: tynist's Count" /></a>
-</p>
-
-
-<style>
-    .container {
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        color: #fff;
-    }
-    
-    .visit-count {
-        display: flex;
-        align-items: center;
-    }
-</style>
 
 <div class="container">
     <div>
         Hello All👋
     </div>
     <div class="visit-count">
-        Visit Count:
+        :star: Visit Count :star:
         <img src="https://profile-counter.glitch.me/tynist/count.svg" alt="tynist :: tynist's Count" />
     </div>
 </div>
