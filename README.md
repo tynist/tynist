@@ -1,12 +1,5 @@
 # Hello All👋 #
 
-<div class="container">
-    <div class="visit-count">
-        :star: Visit Count :star:
-        <img src="https://profile-counter.glitch.me/tynist/count.svg" alt="tynist :: tynist's Count" />
-    </div>
-    <p></p>
-</div>
 
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tynist&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
